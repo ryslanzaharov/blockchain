@@ -1,0 +1,42 @@
+body {
+    /*background-color: aqua;*/
+    background-image: url(../img/blockchain.jpg);
+    text-decoration-color: white;
+}
+
+#addMessage {
+    text-align: center;
+    /*margin:0 auto;*/
+    /*align-content: center;*/
+    /*text-align: center;*/
+    color: whitesmoke;
+}
+
+#table {
+    margin: 0 auto;
+    /*align-content: center;*/
+    /*text-align: center;*/
+    color: whitesmoke;
+}
+
+#doneTask {
+    margin-left: 5px;
+}
+
+.btn {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 60px;
+    height: 35px;
+}
+
+#desc {
+    margin-left: 5px;
+    height: 30px;
+}
+
+p {
+    text-align: center;
+    color: whitesmoke;
+
+}
